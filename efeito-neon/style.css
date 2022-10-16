@@ -1,0 +1,7 @@
+.h1 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  animation: neon 5s infinite;
+  text-shadow: none;
+  text-shadow: white 0 0 12px #ff3aad 0 0 24px #ff3aad 0 0 36px;
+}
